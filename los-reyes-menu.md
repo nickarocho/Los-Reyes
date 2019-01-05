@@ -22,7 +22,7 @@ This tropical sandwich is made with with ham, pineapple, and pork sirloin. It is
 Mexicana
 Our Mexicana comes with bistec mixed with onions and jalapenos, it is topped with pico de gallo and fresh avocado. 
 
-Pancho Villa #
+Pancho Villa 
 This torta is one of the bravest out there, this torta comes with ham, melted mozzarella, pork sirloin, and a chorizo-omelet. The pancho villa is topped with tomato, fresh avocado, and chipotle sauce.
 
 Ranchera
@@ -34,13 +34,13 @@ This patriotic torta comes with ham, pineapple, melted mozzarella, breaded chick
 Ahogada
 This is a unique Torta. This torta comes with carnitas and pico de gallo. It is topped with sour cream, onions, and cilantro. It is also drenched in our special red salsa, hence the name.
 
-Arizona #
+Arizona 
 This Arizona inspired torta comes with ham, melted mozzarella, pork sirloin, and breaded beef. This torta is topped with tomato, caramelized onions, jalapenos, fresh avocado, and is served with Ruffles on the side.
 
-Cubana*
+Cubana
 Our cubana comes with ham, melted mozzarella, and pork sirloin. This torta is topped with tomato, caramelized onions, jalapenos, fresh avocado, and is served with Ruffles on the side.
 
-Torta de Milanesa*
+Torta de Milanesa
 This torta comes with melted mozzarella and your choice of either breaded beef or breaded chicken. This torta is topped with tomato, caramelized onions, jalapenos, fresh avocado, and is served with Ruffles on the side.
 
 Pechuga Asada
@@ -76,9 +76,6 @@ Topped with cilantro and onions
 Carnitas
 Topped with cilantro and onions 
 
-Pierna #
-Topped with pico de gallo 
-
 Pollo
 Topped with pico de gallo 
 
@@ -109,8 +106,6 @@ All of our burritos come with refried beans, mozzarella cheese, pico de gallo, a
 The following are options of meat that can added to your burrito:
 
 Asada
-
-Pierna
 
 Chorizo
 
@@ -182,6 +177,8 @@ The chuleta encebollada is smoked pork chop on a bed of grilled onions and jalap
 
 Alambre
 This plate comes with your choice of chopped beef or chicken mixed with bell peppers, onions, bacon, and mozzarella cheese on top.
+
+======
 
 Filete de Pescado
 This is our grilled fish fillet, this is served with rice and a fresh salad.
@@ -347,18 +344,11 @@ This is one of our most popular appetizers. This tostada comes with our freshly 
 Tostada de Tinga
 This tostada comes with our homemade chicken tinga and beans topped with lettuce, green salsa, queso fresco, and sour cream. 
 
-Tostada de Frijol
-This tostada simply comes with beans, lettuce, and queso fresco. 
-
 Botana de Camaron
 Our botana de camaron is a platter that is made up of cooked shrimp, slices of tomato, cucumbers, onions, fresh avocado, chipotle dressing, and salsa verde. 
 
 Queso Fundido
 Our cheese fondue is melted mozzarella cheese with four flour tortillas. It can be topped with Chorizo, Mushrooms, or Jalapenos.
-&nbsp;
-+ Chorizo $$
-+ Mushrooms $$
-+ Jalapenos $$
 
 Quesadilla de Queso
 Our quesadilla de queso is a 12 inch flour tortilla filled with mozzarella cheese. 
@@ -368,35 +358,6 @@ Our quesadilla mexicana is a cheese crisp topped with pico de gallo and guacamol
 
 Guacamole Dip
 Another one of our most popular appetizers is our guacamole dip. It comes with our freshly made guacamole and some crunchy fresh chips. 
-
-SOPES 
-------
-Our homemade Sopes come with beans, green salsa, lettuce, and queso fresco. The following add-ons can be added to your Sope. (Prices may vary)
-
-Chicharron prensado
-
-Asada
-
-Bistec encebollado
-(Grilled steak mixed with onions and jalapenos) 
-
-Bistec
-
-Carne deshebrada
-
-Pechuga de pollo 
-
-Tinga de Pollo
-
-Chuleta
-
-Chorizo con papa
-
-Hongos
-
-Nopales asados
-
-Rajas con crema
 
 
 
@@ -460,40 +421,52 @@ This plate comes with either breaded beef or breaded chicken breast and is serve
 Plato de asada o Pollo
 This plate comes with either asada or grilled chicken breast and is served with rice and beans. 
 
-	
-SIDE ORDERS
-======
-
-Frijole
-Refried beans 
-
-Arro
-Rice 
-
-Tortilla
-Corn or flour 
-
-Chile Jalapen
-Jalapenos 
-
-Chiles Toreado
-Grilled Jalapenos 
-
-Cebollas Asada
-Grilled Onions
-
-Aguacat
-Avocado
-
-Guacamole 
-
-Queso Fresco
-
 
 
 
 BEVERAGES
 ======
+
+SPECIALTY DRINKS
+------
+
+Vampiro
+Our vampiro comes with Orange juice, carrot juice, celery, and beet
+
+El Rey del V8
+Our V8 comes equipped with Orange juice, carrot juice, pineapple, celery, beet, tomato, lime, and cucumber
+
+Bomba con jugo
+Our bomba con jugo comes with orange juice, granola, pineapple, cantaloupe, mango, papaya, strawberry, and banana 
+
+Bomba con Leche
+Our bomba con leche comes with milk, granola, sugar, cantaloupe, mango, papaya, strawberry, and banana
+
+La Nina Fresa
+The Nina Fresa comes with sugar, strawberry, mango, and pineapple
+	
+La mas fresca
+This drink comes with sugar, pineapple, celery, and lime juice
+
+Verde Passion
+Our verde pasion is a drink that has sugar, cucumber, celery, and lime juice 
+
+Pina tropical
+The pina tropical comes with sugar, pineapple, and orange juice
+
+Michelada con Camaron
+
+La Exotica
+La exoctica comes with sugar, mango and orange juice 
+
+Tropicana Fresca
+Our Tropicana Fresca comes with sugar, papaya, lemon juice, and celery 
+
+Mangonada
+Our popular mangonadas comes equipped with fresh mango, orange juice, lime juice, Tajin, chamoy, and is topped with a tamarindo stick. 
+
+Rica Boricua
+Our Rica Boricua comes with sugar, strawberry, and watermelon
 
 MIXED DRINKS (Without alcohol)
 ------
@@ -600,42 +573,19 @@ Eggnog
 LICUADOS
 ------
 Our milkshakes come with vanilla extract, sugar and your choice of the following flavors:
-Cantaloupe, papaya, banana, mango, strawberry, chocolate, granola, or nuts. 
 
-Vampiro
-Our vampiro comes with Orange juice, carrot juice, celery, and beet
+Cantaloupe
 
-El Rey del V8
-Our V8 comes equipped with Orange juice, carrot juice, pineapple, celery, beet, tomato, lime, and cucumber
+Papaya
 
-Bomba con jugo
-Our bomba con jugo comes with orange juice, granola, pineapple, cantaloupe, mango, papaya, strawberry, and banana 
+Banana
 
-Bomba con Leche
-Our bomba con leche comes with milk, granola, sugar, cantaloupe, mango, papaya, strawberry, and banana
+Mango
 
-La Nina Fresa
-The Nina Fresa comes with sugar, strawberry, mango, and pineapple
-	
-La mas fresca
-This drink comes with sugar, pineapple, celery, and lime juice
+Strawberry
 
-Verde Passion
-Our verde pasion is a drink that has sugar, cucumber, celery, and lime juice 
+Chocolate
 
-Pina tropical
-The pina tropical comes with sugar, pineapple, and orange juice
+Granola
 
-Michelada con Camaron
-
-La Exotica
-La exoctica comes with sugar, mango and orange juice 
-
-Tropicana Fresca
-Our Tropicana Fresca comes with sugar, papaya, lemon juice, and celery 
-
-Mangonada
-Our popular mangonadas comes equipped with fresh mango, orange juice, lime juice, Tajin, chamoy, and is topped with a tamarindo stick. 
-
-Rica Boricua
-Our Rica Boricua comes with sugar, strawberry, and watermelon
+Nuts
