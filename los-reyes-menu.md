@@ -155,6 +155,9 @@ Pollo asado
 
 PLATILLOS
 ======
+
+PLATILLOS
+------
 The following plates are served with rice, refried beans, and guacamole, with your choice of corn or flour tortillas
 
 Peluche
@@ -178,7 +181,8 @@ The chuleta encebollada is smoked pork chop on a bed of grilled onions and jalap
 Alambre
 This plate comes with your choice of chopped beef or chicken mixed with bell peppers, onions, bacon, and mozzarella cheese on top.
 
-======
+·····················
+------
 
 Filete de Pescado
 This is our grilled fish fillet, this is served with rice and a fresh salad.
@@ -388,7 +392,7 @@ The Mexicana comes with our homemade beef patty, chorizo, grilled onions and jal
 La Frances
 Our french hamburger comes with our homemade beef patty, bacon, and cheddar cheese. This burger is topped with lettuce, tomato, and chipotle dressing. 
 
-Chicken Breast
+Pollazo
 Our chicken breast burger comes with grilled chicken breast, caramelized onions, jalapenos, lettuce, tomato, cheddar cheese, and our chipotle dressing.
 
 
